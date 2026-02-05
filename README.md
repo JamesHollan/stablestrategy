@@ -87,3 +87,7 @@ Anchor.toml           # Anchor workspace configuration
 package.json          # Node/TypeScript dependencies
 tsconfig.json         # TypeScript configuration
 README.md             # Project documentation
+
+
+<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/ec532db7-8362-47d6-86a3-718cfe5c2833" />
+
