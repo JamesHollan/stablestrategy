@@ -1,5 +1,6 @@
 # Stable Strategy
 
+CoyGSCf4YMxozas3RHfwPt4QA93fLrDE7m3WtmQ9pump
 
 Stable Strategy is an on-chain Solana program designed to convert SOL (or a project’s native token) into a stable Solana-based token and distribute it to the top 250 holders of a given SPL token. The goal is to provide a transparent, rules-based “stability layer” for early supporters of a project.
 
